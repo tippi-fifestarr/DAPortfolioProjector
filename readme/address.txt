@@ -1,0 +1,9 @@
+paste into ethereum/factory.js or projector.js whatever
+
+address of the deployed Projector on Rinkeby: 0x11A961283CcEAf585e172B664e6fce86B7F27F28
+
+second address:
+0xa430081b34425905f16C45463468a3De06A471A2
+
+fourth address>=? with name inside of project
+0xF8eD1B0BCaB0211670C8f47Da0d035e6B0682FB9
