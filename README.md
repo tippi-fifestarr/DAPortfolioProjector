@@ -1,4 +1,7 @@
 # DAPortfolioProjector
+Later links and collect all ideas into title, description, funds
+and link to GitHub repo /+ website
+
 What it is.  
 Create, read and send money into your portfolio projects
  by deploying this contract yourself and updating this 
